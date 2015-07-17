@@ -1,0 +1,34 @@
+h1{
+	color : blue;
+	text-align: center;
+}
+
+#course_details{
+	border: 1px solid black;
+	table-layout: center;
+}
+
+th{
+	border : 1px solid black;
+	color : blue;
+}
+
+td{
+	border :1px solid black;
+}
+
+#instructions_legend{
+	color : green;
+	font-style: italic;
+}
+
+#paragraph1{
+	font-style: italic;
+	color :red;
+
+}
+
+#paragraph2{
+	background-color: yellow;
+	color : black;
+}
