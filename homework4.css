@@ -1,0 +1,26 @@
+.lettercolor span:nth-of-type(1), span:nth-of-type(6){
+	color:blue;
+}
+.lettercolor span:nth-of-type(2), span:nth-of-type(7){
+color :red;
+}
+.lettercolor span:nth-of-type(3), span:nth-of-type(8){
+color :#F79F81;
+}
+.lettercolor span:nth-of-type(4) {
+color :green;
+}
+.lettercolor span:nth-of-type(5) {
+color :purple;
+}
+
+h1{
+	font-style: Arial;
+	font-size:70px;
+	text-align:center;
+	position: relative;
+	padding: 250px;
+}
+body{
+	background-color: #F8E0F7;
+}
